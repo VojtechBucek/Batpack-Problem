@@ -1,0 +1,13 @@
+D:\Visual\C#\Batuzek\Batuzek\bin\Debug\netcoreapp3.1\Batuzek.exe
+D:\Visual\C#\Batuzek\Batuzek\bin\Debug\netcoreapp3.1\Batuzek.deps.json
+D:\Visual\C#\Batuzek\Batuzek\bin\Debug\netcoreapp3.1\Batuzek.runtimeconfig.json
+D:\Visual\C#\Batuzek\Batuzek\bin\Debug\netcoreapp3.1\Batuzek.runtimeconfig.dev.json
+D:\Visual\C#\Batuzek\Batuzek\bin\Debug\netcoreapp3.1\Batuzek.dll
+D:\Visual\C#\Batuzek\Batuzek\bin\Debug\netcoreapp3.1\Batuzek.pdb
+D:\Visual\C#\Batuzek\Batuzek\obj\Debug\netcoreapp3.1\Batuzek.csprojAssemblyReference.cache
+D:\Visual\C#\Batuzek\Batuzek\obj\Debug\netcoreapp3.1\Batuzek.AssemblyInfoInputs.cache
+D:\Visual\C#\Batuzek\Batuzek\obj\Debug\netcoreapp3.1\Batuzek.AssemblyInfo.cs
+D:\Visual\C#\Batuzek\Batuzek\obj\Debug\netcoreapp3.1\Batuzek.dll
+D:\Visual\C#\Batuzek\Batuzek\obj\Debug\netcoreapp3.1\Batuzek.pdb
+D:\Visual\C#\Batuzek\Batuzek\obj\Debug\netcoreapp3.1\Batuzek.genruntimeconfig.cache
+D:\Visual\C#\Batuzek\Batuzek\obj\Debug\netcoreapp3.1\Batuzek.csproj.CoreCompileInputs.cache
